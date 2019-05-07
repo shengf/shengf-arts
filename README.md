@@ -13,7 +13,7 @@ shengf-arts这个项目的所有内容都可以在我的微信公众号Java北�
 
 | Week# | category | Content | Remark |
 | ------- | ------- | -------------------- | ------ |
-| 4 | A |  |  |
+| 4 | A | [LeetCode #7: Reverse Integer(Easy)](./algorithm/java/algorithm-java/src/reverseInteger/ReverseInteger.java) <br>[LeetCode #8: String to Integer (atoi)(Medium)](./algorithm/java/algorithm-java/src/stringToInteger/StringToInteger.java) | 20190508 |
 |   | R |  |  |
 |   | T |  |  |
 |   | S |  |  |
