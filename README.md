@@ -13,19 +13,19 @@ shengf-arts这个项目的所有内容都可以在我的微信公众号Java北�
 
 | Week# | category | Content | Remark |
 | ------- | ------- | -------------------- | ------ |
-| 4 | A | [LeetCode #7: Reverse Integer(Easy)](./algorithm/java/algorithm-java/src/reverseInteger/ReverseInteger.java) <br>[LeetCode #8: String to Integer (atoi)(Medium)](./algorithm/java/algorithm-java/src/stringToInteger/StringToInteger.java) | 20190508 |
+| 4 | A | LeetCode#7:[Reverse Integer(Easy)](./algorithm/java/algorithm-java/src/reverseInteger/ReverseInteger.java) <br>LeetCode#8: [String to Integer (atoi)(Medium)](./algorithm/java/algorithm-java/src/stringToInteger/StringToInteger.java) | 20190508 |
 |   | R |  |  |
-|   | T |  |  |
-|   | S |  |  |
-| 3 | A | [LeetCode#3: Longest Substring Without Repeating Characters(Medium)](./algorithm/java/algorithm-java/src/lengthOfLongestSubstring/LengthOfLongestSubstring.java) | 20190502 |
+|   | T | Tip#1: [IDEA 配置Python编译运行环境](./tip/tool/idea4python.md)<br> Tip#2: [AliMQ 使用笔记](./tip/note/alimq.md) | 20190512 |
+|   | S | [分享：API 设计最佳实践的思考](./share/tech/best-practice-of-api-designing.md) | 20190512 |
+| 3 | A | LeetCode#3: [Longest Substring Without Repeating Characters(Medium)](./algorithm/java/algorithm-java/src/lengthOfLongestSubstring/LengthOfLongestSubstring.java) | 20190502 |
 |   | R | [高级工程师应该是什么样子？](./review/what-does-a-senior-engineer-look-like/README.md) | 20190504 |
 |   | T | [Google的正确打开方式](./tip/tool/effectiveGoogle.md) | 20190505 |
 |   | S | [分享：瓜子云平台的实践经验](./share/guaziCloud/guaziCloud.md) | 20190505 |
-| 2 | A | [LeetCode#2: Add Two Numbers(Medium)](./algorithm/java/algorithm-java/src/addTwoNumbers/AddTwoNumbers.java) | 20190502(补) |
+| 2 | A | LeetCode#2: [Add Two Numbers(Medium)](./algorithm/java/algorithm-java/src/addTwoNumbers/AddTwoNumbers.java) | 20190502(补) |
 |   | R | [十年自学编程](./review/TeachYourselfProgramminginTenYears/README.md) | 20190503(补) |
 |   | T | [指定时间QPS统计](./tip/shell/qps.md) | 20190504(补) |
 |   | S | [30岁程序员的焦虑](./share/programming-life/anxiety-of-30-year-old-programmers.md) | 20190505(补) |
-| 1 | A | [LeetCode#1: Two Sum(Easy)](./algorithm/java/algorithm-java/src/twoSum/TwoSum.java)<br>[LeetCode#15: 3Sum(Medium)](./algorithm/java/algorithm-java/src/threeSum/ThreeSum.java) | 20190502(补) |
+| 1 | A | LeetCode#1: [Two Sum(Easy)](./algorithm/java/algorithm-java/src/twoSum/TwoSum.java)<br>LeetCode#15: [3Sum(Medium)](./algorithm/java/algorithm-java/src/threeSum/ThreeSum.java) | 20190502(补) |
 |  | R |[关于996的一篇文章](./review/996/README.md) | 20190502(补) |
 |  | T |[用sort、comm、cat、grep等命令求文本文件的合集、交集、差集](./tip/shell/intersection.md) | 20190504(补) |
 |  | S |[灰度发布方式整理](./share/grayscaleDeployment/grayscaleDeployment.md) | 20190504(补) |
