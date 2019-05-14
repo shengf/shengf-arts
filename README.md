@@ -13,8 +13,8 @@ shengf-arts这个项目的所有内容都可以在我的微信公众号Java北�
 
 | Week# | category | Content | Remark |
 | ------- | ------- | -------------------- | ------ |
-| 4 | A | LeetCode#7:[Reverse Integer(Easy)](./algorithm/java/algorithm-java/src/reverseInteger/ReverseInteger.java) <br>LeetCode#8: [String to Integer (atoi)(Medium)](./algorithm/java/algorithm-java/src/stringToInteger/StringToInteger.java) | 20190508 |
-|   | R |  |  |
+| 4 | A | LeetCode#7: [Reverse Integer(Easy)](./algorithm/java/algorithm-java/src/reverseInteger/ReverseInteger.java) <br>LeetCode#8: [String to Integer (atoi)(Medium)](./algorithm/java/algorithm-java/src/stringToInteger/StringToInteger.java) | 20190508 |
+|   | R | [代码和系统的有效思维模型](./review/effective-mental-models-for-code-and-systems/effective-mental-models-for-code-and-systems.md) | 20190514(补) |
 |   | T | Tip#1: [IDEA 配置Python编译运行环境](./tip/tool/idea4python.md)<br> Tip#2: [AliMQ 使用笔记](./tip/note/alimq.md) | 20190512 |
 |   | S | [分享：API 设计最佳实践的思考](./share/tech/best-practice-of-api-designing.md) | 20190512 |
 | 3 | A | LeetCode#3: [Longest Substring Without Repeating Characters(Medium)](./algorithm/java/algorithm-java/src/lengthOfLongestSubstring/LengthOfLongestSubstring.java) | 20190502 |
