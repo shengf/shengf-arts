@@ -13,6 +13,10 @@ shengf-arts这个项目的所有内容都可以在我的微信公众号Java北�
 
 | Week# | category | Content | Remark |
 | ------- | ------- | -------------------- | ------ |
+| 5 | A |  |  |
+|   | R | [错误的相对性](./review/the-relativity-of-wrong.md) | 20190519 |
+|   | T |  |  |
+|   | S | [分享：40页PPT分享万亿级交易量下的支付平台设计](./share/payment/design-of-payment-platform-for-trillion-level-transactions.md) | 20190519 |
 | 4 | A | LeetCode#7: [Reverse Integer(Easy)](./algorithm/java/algorithm-java/src/reverseInteger/ReverseInteger.java) <br>LeetCode#8: [String to Integer (atoi)(Medium)](./algorithm/java/algorithm-java/src/stringToInteger/StringToInteger.java) | 20190508 |
 |   | R | [代码和系统的有效思维模型](./review/effective-mental-models-for-code-and-systems/effective-mental-models-for-code-and-systems.md) | 20190514(补) |
 |   | T | Tip#1: [IDEA 配置Python编译运行环境](./tip/tool/idea4python.md)<br> Tip#2: [AliMQ 使用笔记](./tip/note/alimq.md) | 20190512 |
