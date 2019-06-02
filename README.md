@@ -13,6 +13,18 @@ shengf-arts这个项目的所有内容都可以在我的微信公众号Java北�
 
 | Week# | category | Content | Remark |
 | ------- | ------- | -------------------- | ------ |
+| 8 | A |  |  |
+|   | R |  |  |
+|   | T |  |  |
+|   | S |  |  |
+| 7 | A |  |  |
+|   | R |  |  |
+|   | T |  |  |
+|   | S |  |  |
+| 6 | A | LeetCode#9: [Palindrome Number](./algorithm/java/algorithm-java/src/leetcode9/PalindromeNumber.java)<br> LeetCode#13: [Roman to Integer](./algorithm/java/algorithm-java/src/leetcode13/RomanToInt.java)<br> LeetCode#14: [Longest Common Prefix](./java/algorithm-java/src/leetcode14/LongestCommonPrefix.java) | 20190525 |
+|   | R |  |  |
+|   | T | Tip#1: [failover vs. failfast vs. failback vs. failsafe](./tip/fail.md) <br> Tip#2: [Authentication and Authorization](./tip/authenticationAndAuthorization.md) | 20190512 |
+|   | S |  |  |
 | 5 | A |  |  |
 |   | R | [错误的相对性](./review/the-relativity-of-wrong.md) | 20190519 |
 |   | T |  |  |

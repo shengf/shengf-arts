@@ -4,6 +4,9 @@
 | Leecode NO| Week # | Date | Title | My Solution | Difficulty |
 | ------ | ---------- | ---- | ----- | ----------- | ---------- |
 | 15 | 1 | 20190502| [3Sum](https://leetcode.com/problems/3sum/) | [Java](./java/algorithm-java/src/threeSum/ThreeSum.java) | Medium |
+| 14 | 6 | 20190525| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./java/algorithm-java/src/leetcode14/LongestCommonPrefix.java) | Easy |
+| 13 | 6 | 20190525| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](./java/algorithm-java/src/leetcode13/RomanToInt.java) | Easy |
+| 9 | 6 | 20190525| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./java/algorithm-java/src/leetcode9/PalindromeNumber.java) | Easy |
 | 8 | 4 | 20190508| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./java/algorithm-java/src/stringToInteger/StringToInteger.java) | Medium |
 | 7 | 4 | 20190508| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./java/algorithm-java/src/reverseInteger/ReverseInteger.java) | Easy |
 | 3 | 3 | 20190502| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./java/algorithm-java/src/lengthOfLongestSubstring/LengthOfLongestSubstring.java) | Medium |
